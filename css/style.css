@@ -1,4 +1,4 @@
-@import 'https://fonts.googleapis.com/css?family=Cormorant+Garamond|Raleway';
+@import 'https://fonts.googleapis.com/css?family=Scope+One|Raleway';
 body {
     background-color: #1c1f26;
     margin: 0;
@@ -16,7 +16,7 @@ h1 {
     padding: 20px 0 5px 0;
     font-weight: bold;
     font-size: 3rem;
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Scope One', serif;
     text-shadow: 1px 1px #24262D;
 }
 nav li {
